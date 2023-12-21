@@ -19,7 +19,7 @@ public class Custom_ToolsEditor : ModuleRules
                 "CoreUObject",
                 "Engine",
                 "Slate",
-                "SlateCore"
+                "SlateCore", "ToolMenus"
             }
         );
     }
